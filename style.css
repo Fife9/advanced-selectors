@@ -1,0 +1,5 @@
+div p {color: #ad0909; background-color: #000}
+div + p {font-family: verdana}
+div, p {text-align: center;}
+.setContainer > .smallerContainer {padding-top: 50px}
+body {background-image: url(https://s.yimg.com/uu/api/res/1.2/fhIwuE0cDyNzPqslvKQD2w--~B/aD0xMDAwO3c9MTUwMDtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/digital_trends_973/ffd5737f490c749eb77e02c84a03508d);}
